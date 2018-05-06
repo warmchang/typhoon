@@ -2,6 +2,8 @@
 
 Notable changes between versions.
 
+* Update from Fedora Atomic 27 to Fedora Atomic 28
+
 #### AWS
 
 * Allow "preemptible" workers via spot instances ([#202](https://github.com/poseidon/typhoon/pull/202))
